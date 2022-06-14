@@ -10,3 +10,4 @@ Automatic conditions file selection with self-balancing random procedure for Psy
 5. Add the "Code" component in the first routine and open it
 6. Paste the code from `before_experiment.py` file into the `Before experiment` tab
 7. Click `Ok` and save the project
+8. I would be happy if you cite this repository in your paper
