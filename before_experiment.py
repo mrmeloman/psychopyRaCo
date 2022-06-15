@@ -93,4 +93,4 @@ else:
     fileIndex = random.randint(1, 4)
     #Also, they should be named "problems#"
     #where # is a number starting from 1
-    condFileName = "problems" + str(fileIndex) + ".csv"
+    condFileName = "conditions" + str(fileIndex) + ".csv"
