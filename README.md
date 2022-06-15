@@ -8,28 +8,28 @@ Automatic conditions file selection with self-balancing random procedure for Psy
 3. Make sure that there's a `,1` in each line after a conditions file name
 4. Open your PsychoPy project in PsychoPy
 5. Add the "Code" component in the first routine and open it
-6. Paste the code from `before_experiment.py` file into the `Before experiment` tab
+6. Paste the code from `begin_experiment.py` file into the `Begin experiment` tab
 7. Click `Ok` and save the project
 8. I would be happy if you cite this repository in your paper
 
 ### For plain random (local):
-1. Download the `before_experiment.py` file and open it in any text editor
+1. Download the `begin_experiment.py` file and open it in any text editor
 2. Fine the line that says `fileIndex = random.randint(1, 4)` (closer to the end of the file, line 93 initially)
 3. Change the second number to a number of conditions files that you have
-4. Make sure all your conditions file are named `conditions#` where `#` is a number. Numbers should start from 1 and go sequentional (1, 2, 3 ...)
-5. Open your PsychoPy project in PsychoPy
-6. Add the "Code" component in the first routine and open it
-7. Paste the code from `before_experiment.py` file into the `Before experiment` tab
-8. Click `Ok` and save the project
+4. Open your PsychoPy project in PsychoPy
+5. Add the "Code" component in the first routine and open it
+6. Paste the code from `begin_experiment.py` file into the `Begin experiment` tab
+7. Click `Ok` and save the project
+8. Make sure all your conditions file are named `conditions#` where `#` is a number. Numbers should start from 1 and go sequentional (1, 2, 3 ...)
 9. I would be happy if you cite this repository in your paper
 
 ### For plain random (Pavlovia):
 1. Download the `begin_experiment.js` file and open it in any text editor
 2. Fine the line that says `var fileIndex = getRandomIntInclusive(1, 4)`
 3. Change the second number to a number of conditions files that you have
-4. Make sure all your conditions file are named `conditions#` where `#` is a number. Numbers should start from 1 and go sequentional (1, 2, 3 ...)
-5. Open your PsychoPy project in PsychoPy
-6. Add the "Code" component in the first routine, open it and set "Only JS"
-7. Paste the code from `begin_experiment.py` file into the `Begin experiment` tab
-8. Click `Ok` and save the project
+4. Open your PsychoPy project in PsychoPy
+5. Add the "Code" component in the first routine, open it and set "Only JS"
+6. Paste the code from `begin_experiment.py` file into the `Begin experiment` tab
+7. Click `Ok` and save the project
+8. Make sure all your conditions file are named `conditions#` where `#` is a number. Numbers should start from 1 and go sequentional (1, 2, 3 ...)
 9. I would be happy if you cite this repository in your paper
