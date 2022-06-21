@@ -14,7 +14,7 @@ Automatic conditions file selection with self-balancing random procedure for Psy
 
 ### For plain random (local):
 1. Download the `begin_experiment.py` file and open it in any text editor
-2. Fine the line that says `fileIndex = random.randint(1, 4)` (closer to the end of the file, line 93 initially)
+2. Find the line that says `fileIndex = random.randint(1, 4)` (closer to the end of the file, line 93 initially)
 3. Change the second number to a number of conditions files that you have
 4. Open your PsychoPy project in PsychoPy
 5. Add the "Code" component in the first routine and open it
@@ -25,7 +25,7 @@ Automatic conditions file selection with self-balancing random procedure for Psy
 
 ### For plain random (Pavlovia):
 1. Download the `begin_experiment.js` file and open it in any text editor
-2. Fine the line that says `var fileIndex = getRandomIntInclusive(1, 4)`
+2. Find the line that says `var fileIndex = getRandomIntInclusive(1, 4)`
 3. Change the second number to a number of conditions files that you have
 4. Open your PsychoPy project in PsychoPy
 5. Add the "Code" component in the first routine, open it and set "Only JS"
