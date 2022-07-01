@@ -33,3 +33,8 @@ Automatic conditions file selection with self-balancing random procedure for Psy
 7. Click `Ok` and save the project
 8. Make sure all your conditions file are named `conditions#` where `#` is a number. Numbers should start from 1 and go sequentional (1, 2, 3 ...)
 9. I would be happy if you cite this repository in your paper
+
+
+
+
+<a href="https://www.buymeacoffee.com/rehaile" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
