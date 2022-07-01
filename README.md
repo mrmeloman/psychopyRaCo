@@ -35,6 +35,6 @@ Automatic conditions file selection with self-balancing random procedure for Psy
 9. I would be happy if you cite this repository in your paper
 
 
-
+### Support:
 
 <a href="https://www.buymeacoffee.com/rehaile" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
